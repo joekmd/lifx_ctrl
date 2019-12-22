@@ -1,7 +1,7 @@
 --[[
 Latest: December 22, 2019
 Created by JoeK and distributed to the GetVera Community for use.
-Link:
+Link: https://community.getvera.com/t/instructions-and-steps-to-implement-lifx-api-part-ii/211653
 
 Initial Release Date: March 20, 2016
 Link: http://forum.micasaverde.com/index.php?topic=36961.0
@@ -18,7 +18,7 @@ The "token" variable below must be updated with your private API token from LIFX
 	https://cloud.lifx.com/settings
 
 More info on installation and setup here:
-	
+  https://community.getvera.com/t/instructions-and-steps-to-implement-lifx-api-part-ii/211653
 
 Enjoy!  :-)
 --]]
